@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @muratcil100
+- 👋 Hi, I’m Murat Çil
 - 👀 I’m interested in software. (python, sql, algorithms...)
 - 🌱 I’m currently learning electrical-electronic engineering.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muratcil100@gmail.com
 
 <!---
